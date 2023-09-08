@@ -19,7 +19,7 @@
 
 | Resume Modal | Drag and Hue |
 |:---------------:|:----------------:|
-|<img width="400" src="https://github.com/ZelynaFarrell/InteractiveResume/assets/117409535/bf025eb0-9067-4c6a-ad5b-dc2b0cf21303">|<img width="400" src="https://github.com/ZelynaFarrell/InteractiveResume/assets/117409535/f71816b3-b79e-4e22-be89-5e27ce37fb2f">|
+|<img width="400" src="https://github.com/ZelynaFarrell/InteractiveResume/assets/117409535/7192aecd-1f7c-43c8-8630-ed1f933fe58e">|<img width="400" src="https://github.com/ZelynaFarrell/InteractiveResume/assets/117409535/8ed5b098-7c41-42e9-b18b-6a2afd89f06e">|
 
 <br>
 
