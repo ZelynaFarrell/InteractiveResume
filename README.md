@@ -21,9 +21,12 @@
 |:---------------:|:----------------:|
 |<img width="400" src="https://github.com/ZelynaFarrell/InteractiveResume/assets/117409535/7192aecd-1f7c-43c8-8630-ed1f933fe58e">|<img width="400" src="https://github.com/ZelynaFarrell/InteractiveResume/assets/117409535/8ed5b098-7c41-42e9-b18b-6a2afd89f06e">|
 
-| Projects View | Project Detail|
-|:---------------:|:----------------:|
-|<img width="400" src="https://github.com/ZelynaFarrell/InteractiveResume/assets/117409535/b40ef8ea-2f95-440a-b0e7-7542d934b46e">|<img width="400" src="">|
+<br>
+
+
+https://github.com/ZelynaFarrell/InteractiveResume/assets/117409535/b3463bc1-c4f3-493e-9591-7a4ccc7ab439
+
+
 
 <br>
 
