@@ -12,6 +12,7 @@ struct InteractiveResumeApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(AppEnvironment())
         }
     }
 }
