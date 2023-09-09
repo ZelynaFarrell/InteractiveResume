@@ -7,12 +7,12 @@
 ## **Features**
 - <kbd style="background-color: #f0f0f0">**Developer Mode:**</kbd> Displays detailed career history and technical achievements.
 - <kbd style="background-color: #f0f0f0">**Personal Mode:**</kbd> Showcases a more holistic view, including hobbies and non-technical experiences.
-- <kbd style="background-color: #f0f0f0">**Custom Animations:**</kbd> Enhance user experience with seamless transitions and engaging UI elements.
-- <kbd style="background-color: #f0f0f0">**Matched Geometry Effect:**</kbd> Create smooth transitions between different views for a polished user interface.
-- <kbd style="background-color: #f0f0f0">**Hue Rotation Effect:**</kbd> Add depth and style to UI elements with interactive color shifts.
-- <kbd style="background-color: #f0f0f0">**Light and Dark Mode:**</kbd> Toggle between light(person) and dark(developer) mode to allow users to view the content and hues in different color palettes.
-- <kbd style="background-color: #f0f0f0">**Custom Toggle Button:**</kbd> Easily switch between Dev Mode and Personal Mode for a tailored experience.
-- <kbd style="background-color: #f0f0f0">**Charts for SwiftUI:**</kbd> Integrate dynamic data visualization to represent skills and achievements effectively.
+- <kbd style="background-color: #f0f0f0">**Custom Animations:**</kbd> Enhances user experience with seamless transitions and engaging UI elements.
+- <kbd style="background-color: #f0f0f0">**Matched Geometry Effect:**</kbd> Creates smooth transitions between different views for a polished user interface.
+- <kbd style="background-color: #f0f0f0">**Hue Rotation Effect:**</kbd> Adds depth and style to UI elements with interactive color shifts.
+- <kbd style="background-color: #f0f0f0">**Light and Dark Mode:**</kbd> Toggles between light(personal) and dark(developer) modes to allow users to view the content and hues in different color palettes.
+- <kbd style="background-color: #f0f0f0">**Custom Toggle Button:**</kbd> Easily switches between Dev Mode and Personal Mode for a tailored experience.
+- <kbd style="background-color: #f0f0f0">**Charts for SwiftUI:**</kbd> Integrates dynamic data visualization to represent skills and achievements effectively.
 
 
 <br>
